@@ -1,7 +1,7 @@
 # binchecker
 Uses public BIN database APIs to scrape data on supplied BIN numbers.
 
-#Usage
+# Usage
 binchecker [input file] [output file]
 
 Input file is a CSV (Comma Separated Values) file, which contain BIN numbers in a given column.
